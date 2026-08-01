@@ -1,0 +1,15 @@
+---
+title: "Ten advances in mathematics and theoretical computer science"
+slug: "ten-advances-in-mathematics-and-theoretical-computer-science-13860"
+pubDatetime: 2026-08-01T00:00:00Z
+description: "Ten advances in mathematics and theoretical computer science"
+tags: ["ai"]
+featured: false
+draft: false
+---
+
+<img src="/covers/13860.png" alt="cover" style="width:100%;height:auto;">
+
+---
+
+*이 글은 [AI Newsroom](https://lshlsh135.github.io) 자동 요약입니다. · 원문 링크: <https://openai.com/index/ten-advances-in-mathematics> (openai_blog) · 발행일: 2026-08-01*
